@@ -625,7 +625,7 @@ body
         margin: 10px;
         margin-top: 14px;
         height: 20vh;
-       
+        display: none;
     }
     .product-clone-small img
     {
